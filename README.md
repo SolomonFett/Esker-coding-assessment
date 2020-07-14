@@ -7,4 +7,5 @@
   * File type is a .txt file
   * All words are spelled correctly
   * Numbers do not count as words (ex: dates, integers, fractions ...)
-  * Numbers can be within a word for that string to be considered a word (ex: P2P or COVID-19)
+  * Numbers can be within a word for that string to be considered a word (ex: P2P or O2C)
+* Amount of time spent completing the code: 1hr 45min
