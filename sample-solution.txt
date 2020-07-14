@@ -1,0 +1,22 @@
+=====================
+File name:  sample.txt
+Number of lines:  7
+Number of characters (total):  663
+Number of letters:  542
+Number of figures:  6
+Number of other characters:  14
+Number of words:  96
+Number of 1 letter words: 3
+Number of 2 letter words: 11
+Number of 3 letter words: 15
+Number of 4 letter words: 9
+Number of 5 letter words: 12
+Number of 6 letter words: 11
+Number of 7 letter words: 7
+Number of 8 letter words: 4
+Number of 9 letter words: 9
+Number of 10 letter words: 10
+Number of 11 letter words: 2
+Number of 13 letter words: 2
+Number of 15 letter words: 1
+=====================
